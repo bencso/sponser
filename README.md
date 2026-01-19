@@ -55,10 +55,6 @@ Ez a projekt a következők gyakorlására szolgál:
 - HTTP protokoll alapjai
 - API végpontok tesztelése
 
-## 🤝 Közreműködés
-
-Ez egy oktatási projekt volt a tanárommal közösen, ami bemutató és tanulási célokat szolgált. A projekt alapja a tanárom munkája.
-
 ## 📄 Licensz
 
 Oktatási célú projekt - A felhasználáshoz kérj engedélyt a [projekt eredeti szerzőjétől](https://github.com/hemrichg/sponser).
@@ -66,14 +62,6 @@ Oktatási célú projekt - A felhasználáshoz kérj engedélyt a [projekt erede
 ---
 
 **Státusz:** ✅ Befejezett
-
-**Befejezés dátuma:** 2024.
-
----
-
-## 💭 Megjegyzések
-
-Ez egy oktató bemutató projekt, amelyet a tanárom készített egy órához, és én segítettem benne. A projekt a REST API alapjait mutatja be egyszerű, gyakorlati példákon keresztül.
 
 ---
 
